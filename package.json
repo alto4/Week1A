@@ -1,0 +1,15 @@
+{
+  "name": "webd6201-w2021-week1",
+  "version": "0.0.1",
+  "description": "Demo project for week 1 of WEBD6201",
+  "main": "index.js",
+  "repository": "https://github.com/alto4/Week1A.git",
+  "author": "Scott Alton",
+  "license": "MIT",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.2",
+    "@popperjs/core": "^2.6.0",
+    "bootstrap": "^4.5.3",
+    "jquery": "^3.5.1"
+  }
+}
