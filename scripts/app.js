@@ -7,6 +7,12 @@
   function Start()
   {
     console.log('Hello JS! Have a good day');
+  
+    const clickMeButton = document.getElementById('clickMe');
+
+    clickMeButton.addEventListener('click', () => {
+      console.log('Click me button clicked!');
+    });
   }
 
   // Event listener
